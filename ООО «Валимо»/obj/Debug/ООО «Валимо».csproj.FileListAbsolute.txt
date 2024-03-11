@@ -1,0 +1,24 @@
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО «Валимо».csproj.AssemblyReference.cache
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\MainWindow.g.cs
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\Windows\Catalog.g.cs
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\App.g.cs
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО «Валимо»_Content.g.cs
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО «Валимо»_MarkupCompile.cache
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО «Валимо»_MarkupCompile.lref
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\bin\Debug\ООО «Валимо».exe.config
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\bin\Debug\ООО «Валимо».exe
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\bin\Debug\ООО «Валимо».pdb
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\bin\Debug\EntityFramework.dll
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\bin\Debug\EntityFramework.xml
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\App.baml
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\MainWindow.baml
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\Windows\Catalog.baml
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО «Валимо».g.resources
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО__Валимо_.Properties.Resources.resources
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО «Валимо».csproj.GenerateResource.cache
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО «Валимо».csproj.CoreCompileInputs.cache
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО «Валимо».csproj.CopyComplete
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО «Валимо».exe
+D:\Study\StudyPractic4\Valimo\ООО «Валимо»\ООО «Валимо»\obj\Debug\ООО «Валимо».pdb
